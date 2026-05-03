@@ -177,3 +177,8 @@ cython_debug/
 data/*.csv
 data/*.json
 data/*.gz
+
+stages/csv_data/
+stages/features_prepared_plan.csv
+
+.DS_Store

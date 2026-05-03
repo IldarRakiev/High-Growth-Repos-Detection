@@ -2,3 +2,6 @@ pylint
 pyspark
 pandas
 streamlit
+matplotlib
+seaborn
+scipy
